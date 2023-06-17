@@ -1,4 +1,4 @@
-# Firebase Codelab: FriendlyChat
+# 0026_friendly_chat
 
 This is the source code for the Firebase FriendlyChat codelab. It includes start and end versions of the
 code for Web and Cloud Functions. To get started open the codelab instructions:
